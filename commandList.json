@@ -1,9 +1,10 @@
 {
-  "!help":"List out commands you can use",
-  "!ping":"Checks bot's status",
-  "!clear [x(integer)]":"Deletes latest x messages & clear command, default = 2",
-  "!quote":"Useless random inspirational quote",
-  "!spoil [message]":"Covers message with black bar thing",
-  "!play":"fun! (INCOMPLETE) - requested by lucas",
-  "!req [request]":"Adds a suggestion request, can also use !request !reqs"
+  "NOTE":"all prefixes are now '?'",
+  "?help":"List out commands you can use",
+  "?ping":"Checks bot's status",
+  "?clear [x(integer)]":"Deletes latest x messages & clear command, default = 2",
+  "?quote":"Useless random inspirational quote",
+  "?spoil [message]":"Covers message with black bar thing",
+  "?play":"fun! (INCOMPLETE) - requested by lucas",
+  "?req [request]":"Adds a suggestion request, can also use ?request ??reqs"
 }
